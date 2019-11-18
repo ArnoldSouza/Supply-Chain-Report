@@ -1,0 +1,2 @@
+python central.py
+pause
